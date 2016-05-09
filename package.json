@@ -1,0 +1,28 @@
+{
+  "name": "node_rsa_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ursa_demo.js",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "co": "^4.6.0",
+    "ursa": "^0.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stableShip/node_rsa_demo.git"
+  },
+  "keywords": [
+    "rsa"
+  ],
+  "author": "JIE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stableShip/node_rsa_demo/issues"
+  },
+  "homepage": "https://github.com/stableShip/node_rsa_demo"
+}
